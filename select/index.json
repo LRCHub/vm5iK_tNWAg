@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ordinary World",
+  "base_artist": "Duran Duran",
+  "createdAt": "2026-02-27T20:07:15.099772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/01_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Ordinary_World_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Ordinary World",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/03_No_Ordinary_World_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ORDINARY WORLD",
+      "artist": "Hyde",
+      "has_synced": true,
+      "path": "select/04_ORDINARY_WORLD_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ordinary World - Single Version",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/05_Ordinary_World_-_Single_Version_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ordinary World (Single Version)",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/06_Ordinary_World_(Single_Version)_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Paul Anka",
+      "has_synced": false,
+      "path": "select/07_Ordinary_World_Paul_Anka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Katharine McPhee",
+      "has_synced": true,
+      "path": "select/08_Ordinary_World_Katharine_McPhee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ordinary World (feat. Miranda Lambert)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Ordinary_World_(feat._Miranda_Lambert)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Gregorian",
+      "has_synced": true,
+      "path": "select/10_Ordinary_World_Gregorian.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Diane Schuur",
+      "has_synced": false,
+      "path": "select/11_Ordinary_World_Diane_Schuur.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/12_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/13_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/14_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/15_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ordinary World - Acoustic Version",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/16_Ordinary_World_-_Acoustic_Version_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ordinary World (Acoustic)",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/17_Ordinary_World_(Acoustic)_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/18_Ordinary_World_Duran_Duran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "has_synced": false,
+      "path": "select/pl_01_Ordinary_World_Duran_Duran.txt"
+    }
+  ]
+}
